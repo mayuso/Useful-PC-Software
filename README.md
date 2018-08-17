@@ -41,6 +41,7 @@
 * [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android (Based on IntelliJ IDEA)
 * [Visual Studio Code](https://code.visualstudio.com) (Source code editor) **(Open Source)**
 * [Git](https://git-scm.com/) (Distributed version control system) **(Open Source)**
+* [GitKraken](https://www.gitkraken.com/) (Cross-platform Git client)
 
 ### Game development
     
