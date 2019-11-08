@@ -33,12 +33,12 @@
 * [GIMP](https://www.gimp.org/) (Image editor) **(Open Source)**
 * [Blender](https://www.blender.org/) (3D modelling, video editing, rendering...) **(Open Source)**
 * [Audacity](https://www.audacityteam.org/) (Audio software for multi-track recording and editing) **(Open Source)**
+* [Krita](https://krita.org/) ( Raster graphics editor: Designed primarily for digital painting and animation) **(Open Source)**
+* [Inkscape](https://inkscape.org/) (Vector graphics editor) **(Open Source)**
 
 # Software development 
 
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Integrated development environment (IDE) with support for many programming languages (Primarily used for Java))
-* [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins)
-* [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android (Based on IntelliJ IDEA)
+* [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android)
 * [Visual Studio Code](https://code.visualstudio.com) (Source code editor) **(Open Source)**
 * [Git](https://git-scm.com/) (Distributed version control system) **(Open Source)**
     * [GitKraken](https://www.gitkraken.com/) (Cross-platform Git client)
