@@ -3,7 +3,6 @@
 # Software installation
 
 * [Ninite](https://ninite.com/) (Software installer and updater)
-* [SUMo](http://www.kcsoftwares.com/?download) (Scans your system for programs/executables and updates them, **Portable/zip version recommended, other versions contain adware**)
  
 # Files and Explorers 
 
@@ -67,11 +66,6 @@
 * [AIDA64](https://www.aida64.com/downloads) (System information, diagnostics, and auditing)
 * [Speccy](https://www.piriform.com/speccy/download) (System information, including real time temperatures and software information)
 * [HWInfo](https://www.hwinfo.com/) (Hardware information)
-
-# System performance
-
-* [PC Decrapifier](https://www.pcdecrapifier.com/download) (Recommends what programs and unnecessary startup items you can remove to speed up your PC)  
-* [CCleaner](https://www.piriform.com/ccleaner/download) ('Junk' cleaner)
 
 # Gaming
 
