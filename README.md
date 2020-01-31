@@ -46,6 +46,8 @@
 ### Game development
     
 * [Godot](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
+* [SFML](https://www.sfml-dev.org/) (Cross-platform multimedia API) **(Open Source)**
+* [SDL](https://www.libsdl.org/index.php) (Cross-platform multimedia API) **(Open Source)**
 * [Unity3D](https://unity3d.com/es) (2D and 3D Game engine)
         
 # Comunications
