@@ -10,6 +10,7 @@
 * [LibreOffice](http://www.libreoffice.org/download/download/) (Office software) **(Open Source)**
 * [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
 * [WinDirStat](https://windirstat.net/) (Disk usage statistics viewer and cleanup tool)
+* [Clover](http://en.ejie.me/) (Adds multi-tab functionality to the Windows Explorer)
 
 # Browsers
 
@@ -85,7 +86,5 @@
 
 * [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**:  
 * [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)  
-* [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
 * [Windows 10 initial setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) (PowerShell script for automation of routine tasks done after fresh installations of Windows 10) **(Open source)**
-* [qBittorrent](https://www.qbittorrent.org/) (BitTorrent protocol client)
-* [Clover](http://en.ejie.me/) (Adds multi-tab functionality to the Windows Explorer)
+* [qBittorrent](https://www.qbittorrent.org/) (BitTorrent protocol client) **(Open source)**
