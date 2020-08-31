@@ -23,18 +23,26 @@
 
 # Multimedia
 
-* [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
 * [VLC](https://www.videolan.org/vlc/index.html) (Cross-platform multimedia player) **(Open Source)**
 * [Kodi](https://kodi.tv/about/software) (Media centre software) **(Open Source)**
 * [Clementine](https://www.clementine-player.org/en) (Music player and library organizer) **(Open Source)**
 
 # Media creation
 
-* [GIMP](https://www.gimp.org/) (Image editor) **(Open Source)**
 * [Blender](https://www.blender.org/) (3D modelling, video editing, rendering...) **(Open Source)**
-* [Audacity](https://www.audacityteam.org/) (Audio software for multi-track recording and editing) **(Open Source)**
+* [GIMP](https://www.gimp.org/) (Image editor) **(Open Source)**
 * [Krita](https://krita.org/) ( Raster graphics editor: Designed primarily for digital painting and animation) **(Open Source)**
 * [Inkscape](https://inkscape.org/) (Vector graphics editor) **(Open Source)**
+
+### Video
+
+* [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) (Video editing)
+
+### Sound
+
+* [MuseScore](https://musescore.org) (Music notation and composition software) **(Open Source)**
+* [Audacity](https://www.audacityteam.org/) (Audio software for multi-track recording and editing) **(Open Source)**
 
 # Software development 
 
