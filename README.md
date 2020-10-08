@@ -50,13 +50,6 @@
 * [Visual Studio Code](https://code.visualstudio.com) (Source code editor) **(Open Source)**
 * [Git](https://git-scm.com/) (Distributed version control system) **(Open Source)**
     * [GitKraken](https://www.gitkraken.com/) (Cross-platform Git client)
-
-### Game development
-    
-* [Godot](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
-* [SFML](https://www.sfml-dev.org/) (Cross-platform multimedia API) **(Open Source)**
-* [SDL](https://www.libsdl.org/index.php) (Cross-platform multimedia API) **(Open Source)**
-* [Unity3D](https://unity3d.com/es) (2D and 3D Game engine)
         
 # Comunications
 
@@ -96,3 +89,7 @@
 * [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)  
 * [Windows 10 initial setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) (PowerShell script for automation of routine tasks done after fresh installations of Windows 10) **(Open source)**
 * [qBittorrent](https://www.qbittorrent.org/) (BitTorrent protocol client) **(Open source)**
+
+# Game development
+    
+* Game Development specific list can be found here: [Useful Game Development Resources](https://github.com/mayuso/Useful-Game-Development-Resources)
