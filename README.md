@@ -89,6 +89,7 @@
 * [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)  
 * [Windows 10 initial setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) (PowerShell script for automation of routine tasks done after fresh installations of Windows 10) **(Open source)**
 * [qBittorrent](https://www.qbittorrent.org/) (BitTorrent protocol client) **(Open source)**
+* [TickTick](https://ticktick.com/) (Todo list, checklist and task manager)
 
 # Game development
     
