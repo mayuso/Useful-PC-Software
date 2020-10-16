@@ -50,6 +50,9 @@
 * [Visual Studio Code](https://code.visualstudio.com) (Source code editor) **(Open Source)**
 * [Git](https://git-scm.com/) (Distributed version control system) **(Open Source)**
     * [GitKraken](https://www.gitkraken.com/) (Cross-platform Git client)
+    
+* [Make for Windows](http://gnuwin32.sourceforge.net/packages/make.htm)(Utility to maintain groups of programs (Windows)) **(Open Source)**
+* [CMake](https://cmake.org/)(Tool to build, test and package software) **(Open Source)**
         
 # Comunications
 
