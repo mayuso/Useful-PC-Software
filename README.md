@@ -51,6 +51,7 @@
     
 * [Make for Windows](http://gnuwin32.sourceforge.net/packages/make.htm) (Utility to maintain groups of programs (Windows)) **(Open Source)**
 * [CMake](https://cmake.org/) (Tool to build, test and package software) **(Open Source)**
+* [WinLibs](http://winlibs.com/) (Standalone build of GCC and MinGW-w64 for Windows)
         
 # Comunications
 
