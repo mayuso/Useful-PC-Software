@@ -46,6 +46,10 @@
 
 * [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android)
 * [Visual Studio Code](https://code.visualstudio.com) (Source code editor) **(Open Source)**
+    * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) (VSCode plugin)
+    * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) (VSCode plugin)
+    * [Theme by language](https://marketplace.visualstudio.com/items?itemName=jsaulou.theme-by-language) (VSCode plugin)
+
 * [Git](https://git-scm.com/) (Distributed version control system) **(Open Source)**
     * [GitKraken](https://www.gitkraken.com/) (Cross-platform Git client)
     
